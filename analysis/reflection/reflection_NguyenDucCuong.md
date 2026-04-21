@@ -4,7 +4,7 @@
 
 ---
 
-## 👤 1. Đóng góp Kỹ thuật (Engineering Contribution - 15/15 điểm)
+## 👤 1. Đóng góp Kỹ thuật (Engineering Contribution - 15 điểm)
 
 Với vai trò là người thực hiện chính dự án này, tôi chịu trách nhiệm thiết kế toàn bộ kiến trúc và xây dựng hạ tầng đo lường hiệu năng cho Legal RAG Agent. Các đóng góp then chốt bao gồm:
 
@@ -23,7 +23,7 @@ Với vai trò là người thực hiện chính dự án này, tôi chịu trá
 
 ---
 
-## 📚 2. Chiều sâu Kỹ thuật (Technical Depth - 15/15 điểm)
+## 📚 2. Chiều sâu Kỹ thuật (Technical Depth - 15 điểm)
 
 Tôi đã làm chủ và áp dụng các kiến thức chuyên sâu về đánh giá AI:
 
@@ -44,7 +44,7 @@ Tôi đã làm chủ và áp dụng các kiến thức chuyên sâu về đánh 
 
 ---
 
-## 🛠️ 3. Giải quyết vấn đề (Problem Solving - 10/10 điểm)
+## 🛠️ 3. Giải quyết vấn đề (Problem Solving - 10 điểm)
 
 Trong quá trình thực hiện, tôi đã vượt qua các thách thức:
 
