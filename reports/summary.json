@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "total": 50,
+    "version": "OPTIMIZED (V2)",
+    "timestamp": "2026-04-21 23:13:47",
+    "versions_compared": [
+      "V1",
+      "V2"
+    ]
+  },
+  "metrics": {
+    "avg_score": 3.51,
+    "hit_rate": 0.46,
+    "agreement_rate": 0.77
+  },
+  "regression": {
+    "v1": {
+      "score": 2.75,
+      "hit_rate": 0.42,
+      "judge_agreement": 0.71
+    },
+    "v2": {
+      "score": 3.51,
+      "hit_rate": 0.46,
+      "judge_agreement": 0.77
+    },
+    "decision": "RELEASE"
+  }
+}
